@@ -27,7 +27,7 @@ public class Vehicle {
 		FourWheeler f = new FourWheeler();
 		f.car();
 		f.bus();
-		f.lorry();
+		
 	}
 
 }
